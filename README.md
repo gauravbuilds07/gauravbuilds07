@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Gaurav Singh 👋
 
-<!--
-**gauravbuilds07/gauravbuilds07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AIML Student
 
-Here are some ideas to get you started:
+💡 Passionate about Artificial Intelligence, Machine Learning, and Computer Vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python
+- Computer Vision
+- OpenCV
+- YOLOv8
+- Git & GitHub
+- Linux
+
+## 📂 Projects
+
+### Wrong Lane Detection System
+AI-powered traffic monitoring system to detect vehicles moving in the wrong direction.
+
+### Traffic Violation Detection
+Detection of helmet violations and triple riding using YOLOv8 and OpenCV.
+
+### Occupancy Detection System
+Real-time people counting system with automated alerts.
+
+## 🌱 Currently Learning
+- Advanced Computer Vision
+- Deep Learning
+- MLOps
+
+## 📫 Connect With Me
+LinkedIn: www.linkedin.com/in/gaurav-singh-7457b83b6
+
+⭐ Always learning and building new things.
